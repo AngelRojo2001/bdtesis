@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+
+a {
+	text-decoration: none;
+	color: #FFF;
+	font-weight: bold;
+}
+a img {
+	border: none;
+}
+body {
+	background-color: #113866;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFF;
+	margin: 0;
+	padding: 0;
+}
+button {
+	background: transparent;
+	background-image: url(../img/boton2.png);
+	border: none;
+	width: 110px;
+	height: 27px;
+	color: #FFF;
+}
+.boton:hover {
+	color: #F90;
+	cursor: pointer;
+}
+#contenedor {
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#cabecera {
+	background: url(../img/header_blank.jpg);
+	height: 100px;
+	font-weight: bold;
+	font-size: 36px;
+	text-align: center;
+	padding-top: 60px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	text-shadow: 3px 3px 3px #F00;;
+}
+.derecha {
+	float: right;
+}
+h1 {
+	text-align: center;
+	text-shadow: 2px 2px 2px #999;
+}
+#logo {
+	float: left;
+	margin-top: -30px;
+	margin-left: 30px;
+}
+#menuIzquierda {
+	float: left;
+	width: 180px;
+}
+.menu_principal {
+	list-style: none;
+	text-align: center;
+	font-weight: bold;
+	font-size: 16px;
+	margin-left: -40px;
+	margin-top: 0px;
+}
+.menu_principal li {
+	width: 179px;
+	height: 44px;
+	background-image: url(../img/boton1.png);
+	background-repeat: no-repeat;
+	margin-bottom: 5px;
+}
+.menu_principal li a {
+	width: 179px;
+	height: 44px;
+	color: #FFF;
+	text-decoration: none;
+	font-weight: bold;
+	display: block;
+	text-shadow: 2px 2px 2px #F00;
+	padding-top: 10px;
+}
+.menu_principal li a:hover {
+	color: #F90;
+	text-shadow: 2px 2px 2px #FFF;
+}
+#contenido {
+	float: right;
+	width: 675px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.menu_buscar {
+	list-style: none;
+	text-align: center;
+	font-weight: bold;
+	font-size: 16px;
+	margin-left: -40px;
+	margin-top: 0px;
+}
+.menu_buscar li{
+	background-image: url(../img/btnBuscar.png);
+	width: 140px;
+	height: 76px;
+	float: left;
+}
+.menu_buscar li a {
+	width: 140px;
+	height: 25px;
+	color: #FFF;
+	text-decoration: none;
+	font-weight: bold;
+	display: block;
+	text-shadow: 2px 2px 2px #F00;
+	padding-top: 50px;
+}
+.menu_buscar li a:hover {
+	color: #F90;
+	text-shadow: 2px 2px 2px #FFF;
+}
+#pie {
+	clear: both;
+	text-align: center;
+	font-size: 12px;
+	font-style: italic;
+	padding-top: 20px;
+}
+.salto {
+	clear: both;
+}p.left {
+	float: right;
+}

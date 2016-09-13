@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_borrar" value="name:id;datatype:int,name:codigo;datatype:int,name:autor;datatype:string,name:titulo;datatype:blob,name:carrera;datatype:string,name:facultad;datatype:string,name:modalidad;datatype:string" />
+</info>

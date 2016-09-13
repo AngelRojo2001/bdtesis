@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_facultad" value="name:id;datatype:int,name:nombre;datatype:string" />
+	<infoitem key="UD_modalidad" value="name:id;datatype:int,name:nombre;datatype:string" />
+	<infoitem key="UD_registro" value="name:id;datatype:int,name:codigo;datatype:string,name:autor;datatype:string,name:titulo;datatype:blob,name:fecha;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_facultad" value="name:id;datatype:int,name:nombre;datatype:string" />
+	<infoitem key="UD_carrera" value="name:id;datatype:int,name:nombre;datatype:string,name:idfac;datatype:int" />
+</info>

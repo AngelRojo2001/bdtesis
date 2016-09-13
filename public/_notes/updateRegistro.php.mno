@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_editar" value="name:id;datatype:int,name:codigo;datatype:int,name:nro;datatype:int,name:autor;datatype:string,name:titulo;datatype:blob,name:tutor;datatype:string,name:idcar;datatype:int,name:anio;datatype:year,name:fdefensa;datatype:date,name:valoracion;datatype:int,name:idmod;datatype:int,name:npag;datatype:int,name:descriptor;datatype:blob,name:fregistro;datatype:timestamp,name:estado;datatype:int" />
+	<infoitem key="UD_carrera" value="name:id;datatype:int,name:nombre;datatype:string,name:idfac;datatype:int" />
+	<infoitem key="UD_modalidad" value="name:id;datatype:int,name:nombre;datatype:string" />
+</info>
